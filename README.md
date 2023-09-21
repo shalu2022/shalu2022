@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Chat Application using Socket io**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **socket io**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shalu2022](https://github.com/shalu2022)
 
